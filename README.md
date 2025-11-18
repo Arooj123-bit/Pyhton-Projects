@@ -1,4 +1,4 @@
-# 🐍 Python Basics Demonstration: Inventory Checker
+# 🐍 Python Basics Demonstration
 
 This repository features a simple Python script designed to demonstrate fundamental programming concepts, including control flow, data structures, and basic input/output operations.
 
